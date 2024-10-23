@@ -92,7 +92,7 @@ footer a {
     background: #fff;
 }
 .advantages-title {
-    position: absolute;
+    /* position: absolute; */
     /* width: 1px;
     height: 1px; */
     margin: -1px;
@@ -179,6 +179,9 @@ footer a {
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;
+}
+.portfolio {
+    background-color: #ffffff;
 }
 
 /* footer */
