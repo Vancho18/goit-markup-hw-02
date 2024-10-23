@@ -48,8 +48,13 @@ footer a {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.header-menu-item:hover,
-.header-menu-item:focus {
+.header-menu-link:hover,
+.header-menu-link:focus {
+    color: #404bbf;
+}
+
+.header-contacts-link:hover,
+.header-contacts-link:focus {
     color: #404bbf;
 }
 
